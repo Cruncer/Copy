@@ -1,7 +1,7 @@
 ---
 title: Show
 category: New Category
-order: 4
+order: 1
 ---
 # Readable?
 Test
