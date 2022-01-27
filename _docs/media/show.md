@@ -1,6 +1,6 @@
 ---
 title: Show
-category: Media
+category: New Category
 order: 4
 ---
 # Readable?
